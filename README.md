@@ -15,16 +15,9 @@
 🌐 **Meu portfólio**<br>
 🔗 https://victh0r13.github.io/my-portfolio/
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,cs,dotnet,postgres,prisma,sqlite,python,git,gitlab,github&perline=7" />
-</p>
+💼 **LinkedIn**<br>
+🔗 https://www.linkedin.com/in/victorhugogx/
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/victorhugogx/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:victorhugovhg@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,express,cs,dotnet,postgres,prisma,sqlite,python,git,gitlab,github&perline=7" />
 </p>
