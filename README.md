@@ -5,9 +5,9 @@
 ---
 
 🚀 **Sobre mim**<br>
-💻 Desenvolvedor Full Stack na Level33 — saúde pública, setor público e ERP multi-tenant<br>
-⚙️ React · TypeScript · Next.js no front | Node.js · C#/.NET 8 no back<br>
-📱 Explorando mobile com React Native (Expo) e offline-first<br>
+💻 Desenvolvedor Full Stack na Level33<br>
+⚙️ React · TypeScript · Next.js | Node.js · C#/.NET 8 <br>
+📱 Explorando mobile com React Native (Expo)<br>
 🐍 Automações em Python e integrações de API com OAuth 2.0<br>
 🎓 Estudante de Ciência da Computação — UCB<br>
 📍 Brasília/DF
